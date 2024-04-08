@@ -10,4 +10,4 @@
 
 [aulaMarkdown](https://github.com/LegendVL2024/aulaMarkdown)
 
-## Nessa aula, nos fizemos uma pesquisa sobre Engenharia de requisitos, utilizando o modelo markdown.
+## Nessa aula, nos fizemos uma pesquisa sobre Engenharia de requisitos, utilizando o estilo markdown.
